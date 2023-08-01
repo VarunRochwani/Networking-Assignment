@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18F9550A2A737D1D00393935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F955092A737D1D00393935 /* AppDelegate.swift */; };
+		18DB56AC2A792BFB00A5872C /* DemoFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DB56AB2A792BFB00A5872C /* DemoFile.swift */; };
+		18F9550A2A737D1D00393935 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef =  18F955092A737D1D00393935 /* AppDelegate.swift */; };
 		18F9550C2A737D1D00393935 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F9550B2A737D1D00393935 /* SceneDelegate.swift */; };
 		18F9550E2A737D1D00393935 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F9550D2A737D1D00393935 /* ViewController.swift */; };
 		18F955112A737D1D00393935 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18F9550F2A737D1D00393935 /* Main.storyboard */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		18DB56AB2A792BFB00A5872C /* DemoFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoFile.swift; sourceTree = "<group>"; };
 		18F955062A737D1D00393935 /* NeoProductDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeoProductDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18F955092A737D1D00393935 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18F9550B2A737D1D00393935 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 		18F954FD2A737D1D00393935 = {
 			isa = PBXGroup;
 			children = (
+				18DB56AB2A792BFB00A5872C /* DemoFile.swift */,
 				18F955082A737D1D00393935 /* NeoProductDemo */,
 				18F9551F2A737D1E00393935 /* NeoProductDemoTests */,
 				18F955292A737D1E00393935 /* NeoProductDemoUITests */,
@@ -312,6 +315,7 @@
 				18F9550E2A737D1D00393935 /* ViewController.swift in Sources */,
 				18F9553E2A73928800393935 /* ProductCell.swift in Sources */,
 				18F955442A739B1F00393935 /* ProductListTableViewModel.swift in Sources */,
+				18DB56AC2A792BFB00A5872C /* DemoFile.swift in Sources */,
 				18F9550A2A737D1D00393935 /* AppDelegate.swift in Sources */,
 				18F955472A739EB700393935 /* Utility.swift in Sources */,
 				18F9550C2A737D1D00393935 /* SceneDelegate.swift in Sources */,
